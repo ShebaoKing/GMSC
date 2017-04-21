@@ -1,0 +1,123 @@
+body {
+	width: 80%;
+	margin: 0 auto;
+	font-size: 14px;
+	font-family: "microsoft yahei" sans-serif verdana;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: pink;
+}
+
+nav #logo {
+	float: left;
+	position: relative;
+	left: -80px;
+}
+
+nav ul {
+	list-style-type: none;
+	font-size: 18px;
+	position: relative;
+	top: 80px;
+	right: 190px;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 5px 20px;
+	margin-right: 5px;
+	border-radius: 5px 5px 0 0;
+	border: 1px solid #E0EEE0; 
+	/*background:-webkit-gradient(linear, 0% 0%, 0% 50%,from(#fff), to(gray));*/
+}
+
+nav ul #first {
+	background-color: #ff8040;
+}
+
+nav #welcome {
+	position: relative;
+	top: 60px;
+	text-align: right;
+	background-color: #ff8040;
+	width: 100%;
+	line-height: 30px;
+	color: white;
+}
+
+nav #location {
+	position: relative;
+	top: 54px;
+	text-align: left;
+	clear: left;
+	margin-left: 5px;
+}
+
+#content {
+	position: relative;
+	top: 50px;
+	margin-left: 5px;
+	width: 100%;
+	height: auto;
+}
+
+/*内容样式*/
+#content #left {
+	border: 1px solid #DBDBDB;
+	width: 20%;
+	text-indent: 10px;
+	float: left;
+}
+
+#content #left dl {
+	margin: 0 auto;
+}
+
+#content #left dl p {
+	margin: 0 auto;
+	line-height: 30px;
+	background-color: #F7F7F7;
+	font-weight: bold;
+}
+
+#content #left dl dt {
+	line-height: 30px;
+	padding-left: 10px;
+}
+
+#content #left dl dt img {
+	margin-right: 10px;
+}
+
+#content #left dl dt span {
+	float: right;
+	padding-right: 5px;
+}
+
+#content #left dl dt a {
+	color: black;
+}
+
+#content #left dl dt a:hover {
+	color: pink;
+}
+
+#content #right {
+	float: left;
+	width: 79%;
+}
+
+#content #right iframe {
+	width: 100%;
+	border: none;
+	height: 100%;
+}
+#foot{
+	position:relative;
+	margin-top:80px;
+}

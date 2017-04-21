@@ -1,0 +1,37 @@
+.iframe_head{
+	position:absolute;
+	width:1024px;
+	height:150px;
+	left:50%;
+	margin-left:-512px;
+	border:none;
+}
+.iframe_foot{
+	width:1024px;
+	height:132px;
+	border:none;
+}
+.body1{
+	position:absolute;
+	width:1024px;
+	left:50%;
+	margin-left:-512px;
+	margin-top:140px;
+}
+.buytitle{
+	background:url(../images/buytitle_bg.gif) no-repeat;
+}
+.body_t1{
+	width:977px;
+	font-size: 14px;
+}
+.body_t2{
+	width:977px;
+}
+			
+			
+			
+			
+			
+			
+			

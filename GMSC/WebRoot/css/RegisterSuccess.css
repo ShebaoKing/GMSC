@@ -1,0 +1,41 @@
+.iframe_head{
+	position:absolute;
+	width:1024px;
+	height:150px;
+	left:50%;
+	margin-left:-512px;
+	border:none;
+}
+.iframe_foot{
+	position:absolute;
+	width:1024px;
+	height:132px;
+	left:50%;
+	margin-left:-512px;
+	margin-top:395px;
+	border:none;
+}
+.body1{
+	position:absolute;
+	width:977px;
+	height:100px;
+	left:50%;
+	margin-left:-488px;
+	margin-top:140px;
+}
+.body2{
+	position:absolute;
+	width:977px;
+	height:150px;
+	left:50%;
+	margin-left:-488px;
+	margin-top:240px;
+}
+p{
+	text-align:center;
+	font-size:13px;
+}
+*{
+	padding:0px;
+	margin:0px;
+}

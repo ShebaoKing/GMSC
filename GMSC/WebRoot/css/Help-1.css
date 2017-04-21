@@ -1,0 +1,21 @@
+.help_1{
+	width:780px;
+	height:545px;
+	border:solid 1px #000;
+}
+.help_t1{
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
+#box,#box2,#box3,#box4,#box5{
+	font-size:15px;
+	margin-top:5px;
+	margin-bottom:5px;
+	color:#F60;
+} 
+*{
+	padding:0px;
+	margin:0px;
+}

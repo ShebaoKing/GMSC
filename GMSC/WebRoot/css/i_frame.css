@@ -1,0 +1,44 @@
+hr {
+	border-color: #ff8040;
+	margin-top: 0;
+}
+
+#header {
+	margin-left: 5px;
+	position: relative;
+	top: 6px;
+}
+
+#header img {
+	margin-right: 5px;
+}
+
+#content table {
+	border-collapse: collapse;
+	border-left: none;
+	border-right: none;
+	border-top: 2px solid gray;
+	border-bottom: 2px solid gray;
+	margin-top: 20px;
+	font-size: 14px;
+}
+
+#content table a {
+	text-decoration: none;
+}
+
+#content table a:hover {
+	color: pink;
+}
+
+#content table th {
+	background-color: #EEEEE0;
+}
+
+#content table tr {
+	line-height: 30px;
+}
+
+#content table tr .operate {
+	text-align: center;
+}

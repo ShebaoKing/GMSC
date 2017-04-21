@@ -1,0 +1,82 @@
+.iframe_head{
+	position:absolute;
+	width:1024px;
+	height:150px;
+	left:50%;
+	margin-left:-512px;
+	border:none;
+}
+.iframe_foot{
+	position:absolute;
+	width:1024px;
+	height:132px;
+	left:50%;
+	margin-left:-512px;
+	margin-top:528px;
+	border:none;
+}
+.body1{
+	position:absolute;
+	width:977px;
+	height:378px;
+	left:50%;
+	margin-left:-488px;
+	margin-top:140px;
+}
+.body2{
+	width:977px;
+	height:25px;
+	text-align:center;
+}
+.body3{
+	width:977px;
+	height:350px;
+}
+.body3_1{
+	float:left;
+	width:350px;
+	height:350px;
+}
+.body3_1_1{
+	width:350px;
+	height:235px;
+}
+.body3_1_t1{
+	width:350px;
+	height:235px;
+	text-align: center;
+}
+.body3_1_2{
+	width:350px;
+	height:70px;
+}
+.body3_1_t2{
+	width:350px;
+	height:70px;
+}
+.body3_1_3{
+	width:350px;
+	height:40px;
+}
+.body3_1_t3{
+	width:350px;
+	height:40px;
+}
+.body3_2{
+	float:left;
+	width:622px;
+	height:350px;
+}
+.body3_t2{
+	position:absolute;
+	margin-top:40px;
+	width:622px;
+	height:300px;
+}
+.body3_1_d1{
+	float: left;
+}
+*{
+	padding:0px;
+	margin:0px;
+}
