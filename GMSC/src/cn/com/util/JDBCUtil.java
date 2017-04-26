@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 public class JDBCUtil {
 	
-	private String url="jdbc:mysql://localhost:3306/guimei";
+	private String url="jdbc:mysql://localhost:3306/gmsc";
 	
 	private String user="root";
 	
